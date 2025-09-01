@@ -24,7 +24,7 @@
             "runout_lane": "lane3",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "None",
+            "status": "Ejecting",
             "dist_hub": 145.0
         },
         "lane2": {
