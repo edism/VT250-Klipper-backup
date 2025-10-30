@@ -100,7 +100,7 @@
             "empty_spool_weight": 250.0,
             "spool_id": 4,
             "color": "#fff200",
-            "weight": 130.29939297535077,
+            "weight": 129.18925029779476,
             "extruder_temp": null,
             "runout_lane": "lane3",
             "filament_status": "In Tool",
