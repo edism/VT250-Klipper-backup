@@ -25,7 +25,8 @@
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
             "status": "None",
-            "dist_hub": 145.0
+            "dist_hub": 145.0,
+            "td1_data": {}
         },
         "lane2": {
             "name": "lane2",
@@ -52,7 +53,8 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 85.0
+            "dist_hub": 85.0,
+            "td1_data": {}
         },
         "lane3": {
             "name": "lane3",
@@ -78,8 +80,9 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
-            "dist_hub": 85.0
+            "status": "Loaded",
+            "dist_hub": 85.0,
+            "td1_data": {}
         },
         "lane4": {
             "name": "lane4",
@@ -106,7 +109,8 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 145.0
+            "dist_hub": 145.0,
+            "td1_data": {}
         }
     },
     "system": {
@@ -116,7 +120,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
