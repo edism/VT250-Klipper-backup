@@ -77,7 +77,7 @@
             "color": "#000000",
             "weight": 962.5907797728911,
             "extruder_temp": null,
-            "runout_lane": "lane1",
+            "runout_lane": "lane2",
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled",
