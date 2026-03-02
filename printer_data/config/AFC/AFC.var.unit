@@ -108,7 +108,7 @@
             "runout_lane": "lane2",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Error",
+            "status": "None",
             "dist_hub": 145.0,
             "td1_data": {}
         }
