@@ -95,7 +95,7 @@
             "map": "T3",
             "load": false,
             "prep": false,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": false,
             "material": "TPU",
             "density": 1.22,
@@ -108,13 +108,13 @@
             "runout_lane": "lane2",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading",
+            "status": "None",
             "dist_hub": 145.0,
             "td1_data": {}
         }
     },
     "system": {
-        "current_load": "lane4",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
