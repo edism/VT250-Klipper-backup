@@ -17,6 +17,7 @@
             "density": 1.24,
             "diameter": 1.0,
             "empty_spool_weight": 250.0,
+            "remember_spool": false,
             "spool_id": 16,
             "color": "#000000",
             "weight": 1073.6793581092884,
@@ -26,7 +27,8 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 145.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
         "lane2": {
             "name": "lane2",
@@ -45,6 +47,7 @@
             "density": 1.07,
             "diameter": 1.75,
             "empty_spool_weight": 250.0,
+            "remember_spool": false,
             "spool_id": 21,
             "color": "#000000",
             "weight": 608.1216963472382,
@@ -54,7 +57,8 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 85.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
         "lane3": {
             "name": "lane3",
@@ -73,6 +77,7 @@
             "density": 1.24,
             "diameter": 1.75,
             "empty_spool_weight": 213.0,
+            "remember_spool": false,
             "spool_id": 17,
             "color": "#a9a56c",
             "weight": 233.0222061332745,
@@ -82,7 +87,8 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 85.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
         "lane4": {
             "name": "lane4",
@@ -101,6 +107,7 @@
             "density": 1.24,
             "diameter": 1.75,
             "empty_spool_weight": 500.0,
+            "remember_spool": false,
             "spool_id": null,
             "color": "",
             "weight": 1000,
@@ -110,7 +117,8 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 145.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         }
     },
     "system": {
