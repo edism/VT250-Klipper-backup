@@ -72,7 +72,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": "ABS",
             "density": 1.07,
             "diameter": 1.75,
@@ -85,8 +85,8 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 72.11,
+            "status": "None",
+            "dist_hub": 111.81,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
@@ -115,7 +115,7 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "Calibrating",
             "dist_hub": 126.71,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
