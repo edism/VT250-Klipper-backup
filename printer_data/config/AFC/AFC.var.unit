@@ -69,7 +69,7 @@
             "buffer_status": "Trailing",
             "lane": 3,
             "map": "T2",
-            "load": true,
+            "load": false,
             "prep": false,
             "tool_loaded": false,
             "loaded_to_hub": false,
